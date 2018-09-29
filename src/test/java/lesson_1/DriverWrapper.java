@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 public class DriverWrapper {
 
     private static WebDriver driver = null;
-    private static String url = "https://www.facebook.com/";
+    private static String url = "https://www.hotels.com/";
 
     public static WebDriver getDriver() {
         return driver;
